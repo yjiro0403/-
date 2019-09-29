@@ -1,0 +1,4 @@
+1-1
+aabbbaaabbbacabbbaabbbaca
+1-2
+aabbccdd000ddbbccaa
